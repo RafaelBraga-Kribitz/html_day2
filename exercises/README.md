@@ -1,4 +1,5 @@
-HTML | DAY 2 | CLASSWORK
+# HTML | DAY 2 | CLASSWORK
+
 Warm Up Questions:
 ● What is an HTML block element?
 ● What is an HTML inline element?
@@ -12,18 +13,26 @@ between div and span elements?
 ● What is the purpose of forms in HTML?
 ● What can you achieve using an iframe element?
 ● Why are comments important in well-written code?
-Basic Exercises
+
+## Basic Exercises
+
 Exercise 1 | Nested Elements
+
 Create a planner for activities to do in Vienna over the weekend.
-You will need 3 rows and 3 columns. The first row will contain the headings
+You will need 3 rows and 3 columns. 
+
+The first row will contain the headings
 Day, Morning and Afternoon.
+
 The second row contains all the information for Saturday. Place descriptive
 lists within each of the two empty table cells(the cells for the morning and
 afternoon).
+
 For Sunday, use ordered lists to rank your activities. Within the ordered lists
 you should nest unordered lists with more information on each activity you
 plan.
-Intermediate Exercises
+
+## Intermediate Exercises
 Exercise 1 | Registration form
 Forms are great for collecting information on users, like job applications or
 registration forms.
@@ -31,7 +40,7 @@ In this exercise, you are going to use all your knowledge about HTML forms
 and create an HTML page that can be used as a registration form for a
 Web page. The form should look like below!
 
-Advanced Exercises
+## Advanced Exercises
 Exercise 1 | Iframes
 Create a website with a nice heading (h1) with your name, and underneath
 it, try to tell us about yourself using only iframes (you can be creative and
